@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wellnessz.aktiv",
+      "sha256_cert_fingerprints": [
+        "4D:74:8B:BB:69:09:BD:F3:57:19:EB:36:42:4B:F1:63:3D:63:DF:F2:6A:D5:A3:31:87:9E:61:57:A0:DD:91:04"
+      ]
+    }
+  }
+]
