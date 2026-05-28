@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "AktiveNutrition",
-  description: "AktiveNutrition",
+  title: "AktivNutrition",
+  description: "AktivNutrition",
 };
 
 export default function RootLayout({ children }) {
